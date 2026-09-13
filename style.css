@@ -1,0 +1,162 @@
+body {
+    background-color: #fff0f6;
+    font-family: 'Quicksand', Arial, sans-serif;
+    color: #5a4a52;
+    margin: 20px;
+    }
+h1 { font-size: 2rem; }    
+h2 { font-size: 1.5em; }   
+h3 { font-size: 22px; }     
+img { width: 40%; }   
+
+h1, h2, h3 {
+    color: #e75480;
+    text-align: center;
+    }
+p {
+  border: 3px solid #ffb6c1;
+  margin: 15px;
+  padding: 12px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+
+h2 {
+  border: 2px dashed #e75480;
+  margin: 10px;
+  padding: 8px;
+}
+.highlight {
+  background-color: #ffe3ee;
+  padding: 5px;
+  border-radius: 6px;
+}
+
+.header {
+  background-color: #ffe3ee;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.main-content {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color: #ffb6c1;
+  color: white;
+  padding: 1px; 
+  text-align: center;
+  border-radius: 12px;
+}
+
+.footer p {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.static-box {
+  position: static;
+  background: #ffe3ee;
+  padding: 10px;
+  margin: 10px;
+}
+
+.relative-box {
+  position: relative;
+  left: 30px;
+  top: 10px;
+  background: #ffb6c1;
+  padding: 10px;
+  margin: 10px;
+}
+
+.absolute-box {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: #e75480;
+  color: white;
+  padding: 10px;
+}
+
+button {
+    background: #ffb6c1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    }
+    
+.float-left {
+  float: left;
+  width: 45%;
+  background: #ffe3ee;
+  padding: 15px;
+  border-radius: 100px;
+}
+
+.float-right {
+  float: right;
+  width: 45%;
+  background: #ffb6c1;
+  padding: 15px;
+  border-radius: 100px;
+}
+
+.clear {
+  clear: both;
+}
+
+  a {
+    color: #e75480;
+    text-decoration: none;
+    border-bottom: 1px dotted #ffb6c1;
+  }
+
+  a:hover {
+    color: #ff69b4;
+    background-color: #fff0f6;
+  }
+
+  button {
+    background-color: #ffb6c1;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(231, 84, 128, 0.25);
+  }
+
+  button:hover {
+    background-color: #e75480;
+    transform: scale(1.05);
+  }
+
+  table {
+    border-collapse: collapse;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(231, 84, 128, 0.15);
+  }
+
+  th {
+    background-color: #ffb6c1;
+    color: #ffffff;
+    padding: 10px 14px;
+  }
+
+  td {
+    padding: 8px 14px;
+    border-bottom: 1px solid #ffe3ee;
+  }
