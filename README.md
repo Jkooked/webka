@@ -266,6 +266,7 @@ wrapping awkwardly around them.
 <img width="232" height="360" alt="image" src="https://github.com/user-attachments/assets/3d0fa389-13ec-4330-9bca-0df067f63c44" />
 <img width="436" height="95" alt="image" src="https://github.com/user-attachments/assets/27b81348-3a86-4df7-a5f2-757e06c84e19" />
 
+# My web-site: https://jkooked.github.io/webka/
 
 
 
