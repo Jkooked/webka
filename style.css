@@ -1,13 +1,13 @@
 body {
     background-color: #fff0f6;
-    font-family: 'Quicksand', Arial, sans-serif;
+    font-family: 'Comic Sans MS', Arial, sans-serif;
     color: #5a4a52;
     margin: 20px;
     }
 h1 { font-size: 2rem; }    
 h2 { font-size: 1.5em; }   
 h3 { font-size: 22px; }     
-img { width: 40%; }   
+img { width: 40%; height: auto; border-radius: 10px; position: center; display: block; margin: 0 auto; }   
 
 h1, h2, h3 {
     color: #e75480;
@@ -21,7 +21,7 @@ p {
   background-color: #fff;
 }
 
-h2 {
+h1, h2 ,h3{
   border: 2px dashed #e75480;
   margin: 10px;
   padding: 8px;
